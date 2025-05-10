@@ -55,12 +55,12 @@ Sentiment was calculated for:
 
 | Sentiment        | Avg. Engagement Score |
 |------------------|-----------------------|
-| Positive         | Highest               |
+| Negative          | Highest               |
 | Neutral          | Moderate              |
-| Negative         | Lowest                |
+| Positive         | Lowest                |
 
 **📌 Insight:**  
-Positive sentiment in post descriptions is correlated with better audience engagement.
+Instagram users tend to engage more with posts reflecting negative sentiment than neutral or positive ones. This tendency could have implications for social well-being and mental health, as frequent exposure to or engagement with negative content may reinforce negative emotions, create a skewed perception of reality, and contribute to stress or anxiety. Conversely, depending on the context of the engagement, it may also provide a platform for expressing and addressing difficult emotions.
 
 ## 📉 Visualizations
 - **Bar Chart**: Average engagement by country
