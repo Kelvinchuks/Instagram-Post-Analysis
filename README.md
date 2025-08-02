@@ -1,7 +1,7 @@
 # 📊 Instagram Post Analysis – Instafocus Project
 
 ## 🔍 Overview
-This project presents a secondary data analysis of Instagram posts, focusing on **geographic targeting** and **sentiment analysis** to understand engagement patterns. The dataset was initially cleaned using **PowerQuery and Excel**, and further processed and analyzed in Python.
+This project presents a secondary data analysis of Instagram posts, focusing on **geographic targeting** and **sentiment analysis** to understand the social well-being of individuals based on engagement patterns. The dataset was initially cleaned using **PowerQuery and Excel**, and further processed and analyzed in Python.
 
 ## 🧹 Data Cleaning
 - Handled missing values in `comment` and `description` fields.
