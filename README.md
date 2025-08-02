@@ -20,11 +20,11 @@ Posts with emotional tone, hashtags, user mentions, and calls-to-action had high
 ## 🌍 Geo-Targeted Engagement
 
 Average engagement by country (Top 5):
-1. 🇮🇹 Italy – 8681.5  
-2. 🇫🇷 France – 6706.0  
-3. 🇮🇪 Ireland – 5949.0  
-4. 🇺🇸 United States – 4989.5  
-5. 🇵🇱 Poland – moderate  
+1. Italy – 8681.5  
+2. France – 6706.0  
+3. Ireland – 5949.0  
+4. United States – 4989.5  
+5. Poland – moderate  
 
 **📌 Insight:**  
 Geo-targeted strategies can be refined based on country-wise engagement. Italy, France, and Ireland show particularly strong response.
