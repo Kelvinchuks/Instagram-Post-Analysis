@@ -51,7 +51,7 @@ Sentiment was calculated for:
 | "The event was okay, nothing too special."   | 0.05           | Neutral   |
 | "This is the worst day ever!"                | -0.75          | Negative  |
 
-## 📊 Sentiment vs Engagement
+## Sentiment vs Engagement
 
 | Sentiment        | Avg. Engagement Score |
 |------------------|-----------------------|
@@ -68,7 +68,7 @@ Instagram users tend to engage more with posts reflecting negative sentiment tha
 ## Conclusion
 This analysis provides strategic insights into how **geographic focus** and **emotional tone** influence Instagram engagement. These findings can inform content strategies, scheduling, and targeted advertising.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - Python (Pandas, Seaborn, NLTK)
 - Excel / PowerQuery
 - VADER Sentiment Analysis
